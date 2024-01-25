@@ -1,4 +1,4 @@
-<img src="https://github.com/moreblahajcoding/badlymadesparxmathslogos/blob/main/sparx_blue.png?raw=true" alt="image" width="128" height="auto">
+<img src="https://github.com/moreblahajcoding/badlymadesparxmathslogos/blob/main/sparx_default.png?raw=true" alt="image" width="128" height="auto">
 
 
 redesigned sparx maths logo
